@@ -1,0 +1,14 @@
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\ParkingApp\ParkingApp\bin\Debug\net6.0\ParkingApp.exe
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\ParkingApp\ParkingApp\bin\Debug\net6.0\ParkingApp.deps.json
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\ParkingApp\ParkingApp\bin\Debug\net6.0\ParkingApp.runtimeconfig.json
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\ParkingApp\ParkingApp\bin\Debug\net6.0\ParkingApp.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\ParkingApp\ParkingApp\bin\Debug\net6.0\ParkingApp.pdb
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\ParkingApp\ParkingApp\obj\Debug\net6.0\ParkingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\ParkingApp\ParkingApp\obj\Debug\net6.0\ParkingApp.AssemblyInfoInputs.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\ParkingApp\ParkingApp\obj\Debug\net6.0\ParkingApp.AssemblyInfo.cs
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\ParkingApp\ParkingApp\obj\Debug\net6.0\ParkingApp.csproj.CoreCompileInputs.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\ParkingApp\ParkingApp\obj\Debug\net6.0\ParkingApp.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\ParkingApp\ParkingApp\obj\Debug\net6.0\refint\ParkingApp.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\ParkingApp\ParkingApp\obj\Debug\net6.0\ParkingApp.pdb
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\ParkingApp\ParkingApp\obj\Debug\net6.0\ParkingApp.genruntimeconfig.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\ParkingApp\ParkingApp\obj\Debug\net6.0\ref\ParkingApp.dll
